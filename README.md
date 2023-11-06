@@ -1,4 +1,5 @@
 # apnacollege-demo
 This is my first git repository.
 <br>
-Author - Nishant Sharma
+Author - Nishant verma 
+#cd-change directory
